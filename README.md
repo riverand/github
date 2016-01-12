@@ -1,2 +1,2 @@
-# github
-this is my github repo
+#this is my github shit
+hello ,github
